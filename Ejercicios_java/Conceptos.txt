@@ -1,0 +1,34 @@
+Variables: Una variable la solemos utilizar para definir algo en el programa, normalmente definimos que tipo 
+de variable utilizamos seguidamente de un nombre para identificarla más facilmente.
+
+Función: Una función la solemos utilizar para realizar un "trabajo" donde utilizaremos las variables previamente
+definidas, normalmente se suelen utilizar cuando quieres hacer la misma tarea varias veces.
+
+Recursividad: -
+
+Bucles: Los bucles se utilizan para hacer un recorrido, normalmente se suelen utilizar para comprobar alguna cosa.
+
+Condicionales: Las condicionales son comprobantes que dependiendo de si lo que queremos comprobar cumple la 
+condición que le implicamos o no, nos darán diferentes respuestas.
+
+Json: Los ficheros json se suelen utilizar para hacer "listas".
+
+Xml: -
+
+Html: Los ficheros html se suelen utilizar para programación web
+
+Clases: -
+
+Herencias: Se utilizan entre clases para heredar valores de una clase a otra clase.
+
+Sql: Un fichero sql se utiliza para realizar bases de datos
+
+Queries: -
+
+Commit: El commit se utiliza en Git/github cuando queremos subir algo nuevo al repositorio.
+
+Pull: El pull se utlizar en Git/github, se utiliza para "bajar" o descargarse un repositorio.
+
+Request: -
+
+API: -
